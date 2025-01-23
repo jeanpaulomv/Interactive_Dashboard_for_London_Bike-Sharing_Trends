@@ -24,7 +24,9 @@ This project highlights how data analysis and visualization can be leveraged to 
 
 Click the button below to interact with the live dashboard:
 
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0077B5?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/Book1_17375082191610/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<a href="https://public.tableau.com/views/Book1_17375082191610/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+  <img src="https://img.shields.io/badge/View_Dashboard-0077B5?style=for-the-badge&logo=Tableau&logoColor=white" alt="View Dashboard">
+</a>
 
 
 ## Features
