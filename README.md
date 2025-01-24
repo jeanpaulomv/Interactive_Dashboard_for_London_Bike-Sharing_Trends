@@ -8,16 +8,6 @@ This project highlights how data analysis and visualization can be leveraged to 
 - **Cost Reduction:** Analyze underutilized routes and timeframes to optimize operations.
 - **Data-Driven Decision Making:** Provide stakeholders with interactive visualizations for in-depth exploration.
 
-# End-to-End Data Analytics Project: Python, Tableau, and Interactive Dashboards
-
-## Project Overview
-This project highlights how data analysis and visualization can be leveraged to solve business problems and optimize operations. Using the **London bike-sharing dataset**, I developed an interactive dashboard to extract and present actionable insights, such as usage patterns, peak demand times, and the influence of environmental factors. 
-
-### Key Business Benefits:
-- **Improved Efficiency:** Identify peak usage times to enhance resource allocation and reduce downtime.
-- **Cost Reduction:** Analyze underutilized routes and timeframes to optimize operations.
-- **Data-Driven Decision Making:** Provide stakeholders with interactive visualizations for in-depth exploration.
-
 ## Dashboard Preview
 
 [![Interactive Dashboard](Interactive%20Dashboard%20-%20London%20Bike%20Rides.png)](https://public.tableau.com/views/Book1_17375082191610/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
